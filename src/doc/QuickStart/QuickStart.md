@@ -25,7 +25,7 @@ Setup
 
   **Windows**
 
-	> Download and unpack [tonino-win-<version>.zip](https://github.com/myTonino/Tonino-App/releases/latest), then run the Tonino App Windows installer.
+>> Download and unpack [tonino-win-<version>.zip](https://github.com/myTonino/Tonino-App/releases/latest), then run the Tonino App Windows installer.
     
   **Mac OS X (>=10.7.x)**
 
